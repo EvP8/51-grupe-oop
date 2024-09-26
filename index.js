@@ -20,7 +20,7 @@ console.log(reksas.bonesLeft());
 console.log(reksas.eatBone());
 console.log(reksas.bonesLeft());
 
-console.clear();
+
 
 const rainis = new Cat('Rainis', 'grey');
 console.log(rainis);
@@ -32,7 +32,7 @@ console.log(rainis.catchFish(4));
 console.log(rainis.catchFish(true));
 console.log(rainis.catchFish(undefined));
 
-console.clear();
+
 
 
 // ----------------------------------------------
